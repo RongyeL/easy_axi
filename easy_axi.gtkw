@@ -1,0 +1,81 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Sat Dec 31 02:19:24 2022
+[*]
+[dumpfile] "/home/myeda/project/easy_axi/easy_axi_tb.vcd"
+[dumpfile_mtime] "Sat Dec 31 02:18:51 2022"
+[dumpfile_size] 32002
+[savefile] "/home/myeda/project/easy_axi/easy_axi.gtkw"
+[timestart] 0
+[size] 2493 1528
+[pos] -1 -1
+*-18.971117 891000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] EASY_AXI_TB.
+[sst_width] 301
+[signals_width] 384
+[sst_expanded] 1
+[sst_vpaned_height] 466
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_aclk
+EASY_AXI_TB.U_EASY_AXI_0.axi_aresetn
+EASY_AXI_TB.U_EASY_AXI_0.txn_start
+EASY_AXI_TB.U_EASY_AXI_0.txn_type[1:0]
+EASY_AXI_TB.U_EASY_AXI_0.txn_done
+@29
+EASY_AXI_TB.U_EASY_AXI_0.axi_awid
+@22
+EASY_AXI_TB.U_EASY_AXI_0.axi_awaddr[31:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_awlen[7:0]
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_awsize[2:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_awlock
+@22
+EASY_AXI_TB.U_EASY_AXI_0.axi_awcache[3:0]
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_awburst[1:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_awprot[2:0]
+@22
+EASY_AXI_TB.U_EASY_AXI_0.axi_awqos[3:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_awregion[3:0]
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_awvalid
+EASY_AXI_TB.U_EASY_AXI_0.axi_awready
+@22
+EASY_AXI_TB.U_EASY_AXI_0.axi_wdata[31:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_wstrb[3:0]
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_wlast
+EASY_AXI_TB.U_EASY_AXI_0.axi_wvalid
+EASY_AXI_TB.U_EASY_AXI_0.axi_wready
+EASY_AXI_TB.U_EASY_AXI_0.axi_bid
+EASY_AXI_TB.U_EASY_AXI_0.axi_bresp[1:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_bvalid
+EASY_AXI_TB.U_EASY_AXI_0.axi_bready
+EASY_AXI_TB.U_EASY_AXI_0.axi_arid
+@22
+EASY_AXI_TB.U_EASY_AXI_0.axi_araddr[31:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_arlen[7:0]
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_arsize[2:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_arburst[1:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_arlock
+@22
+EASY_AXI_TB.U_EASY_AXI_0.axi_arcache[3:0]
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_arprot[2:0]
+@22
+EASY_AXI_TB.U_EASY_AXI_0.axi_arqos[3:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_arregion[3:0]
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_arvalid
+EASY_AXI_TB.U_EASY_AXI_0.axi_arready
+EASY_AXI_TB.U_EASY_AXI_0.axi_rid
+@22
+EASY_AXI_TB.U_EASY_AXI_0.axi_rdata[31:0]
+@28
+EASY_AXI_TB.U_EASY_AXI_0.axi_rresp[1:0]
+EASY_AXI_TB.U_EASY_AXI_0.axi_rlast
+EASY_AXI_TB.U_EASY_AXI_0.axi_rvalid
+EASY_AXI_TB.U_EASY_AXI_0.axi_rready
+[pattern_trace] 1
+[pattern_trace] 0
